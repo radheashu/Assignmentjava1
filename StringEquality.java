@@ -1,4 +1,4 @@
-package assignment1;
+package Demojava1;
 import java.util.Scanner;
 
 public class StringEquality {

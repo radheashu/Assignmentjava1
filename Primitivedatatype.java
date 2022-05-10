@@ -1,4 +1,4 @@
-package assignment1;
+package Demojava1;
 
 public class Primitivedatatype {
         static boolean val1;
